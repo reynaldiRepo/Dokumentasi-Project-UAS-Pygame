@@ -7,5 +7,6 @@ Dokumentasi OOP, aplikasi Game menggunakan Library Pygame
 </ul>
 <br>
 ### Hasil Screenshot Aplikasi  
-![Screenshot](/image/Screenshot_1.jpg)
-![Screenshot](/image/Screenshot_2.jpg)
+
+![Screenshot1](/image/Screenshot_1.jpg)
+![Screenshot2](/image/Screenshot_2.jpg)
